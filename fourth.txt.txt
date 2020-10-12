@@ -1,2 +1,3 @@
 a revision 
-where are my changes for stash
+where are my changes for stash 
+i need them  back
